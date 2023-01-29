@@ -1,0 +1,5 @@
+Capítulo 1:Introduccion a git[B Capítulo 2: Flujo de trabajo básico Capitulo 3[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[G[D[D[D[D[ó[C[C[C[C[C[C[C
+Capítulo 2:F[D[A[C[CIntoducción a Git
+ Capítlo[C[C[C Flujo de trabajo básico
+Capitulo 3: Repositorios remotos
